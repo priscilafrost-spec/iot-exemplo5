@@ -6,7 +6,7 @@ Docente: Amanda Paul Dull
 
 Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
 
-[![Simular no Tinkercad]<img width="1920" height="814" alt="Exquisite Lappi (1)" src="https://github.com/user-attachments/assets/979c4ab8-6373-452d-aa29-ada4fc7e40a2" />
+[![Simular no Tinkercad]<img width="1920" height="814" alt="Exquisite Lappi (1)" src="exemplo5.png" />
 
 ## Enunciado: Sensor de temperatura
 
